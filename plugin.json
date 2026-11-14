@@ -1,0 +1,36 @@
+{
+  "name": "siyuan-outliner",
+  "author": "ranhuo",
+  "url": "https://github.com/Rajahn/siyuan-outliner",
+  "version": "0.6.0",
+  "minAppVersion": "3.0.0",
+  "backends": [
+    "all"
+  ],
+  "frontends": [
+    "desktop",
+    "desktop-window",
+    "browser-desktop"
+  ],
+  "displayName": {
+    "default": "Outliner",
+    "zh-CN": "大纲"
+  },
+  "description": {
+    "default": "A Mubu-style outliner for SiYuan: fast keyboard-driven outlining, folding, zooming, multi-select and drag-and-drop. Sync an outline into a SiYuan doc.",
+    "zh-CN": "幕布风格的大纲编辑器：回车/Tab 快速梳理、折叠、进入主题、多选、拖拽；/ 插入表格、代码块、公式、Mermaid 图、图片、链接；可一键同步为思源文档。"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh-CN": "README_zh_CN.md"
+  },
+  "funding": {},
+  "keywords": [
+    "outline",
+    "outliner",
+    "大纲",
+    "幕布",
+    "mubu",
+    "workflowy"
+  ]
+}
